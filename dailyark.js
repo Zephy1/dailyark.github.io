@@ -8,37 +8,36 @@ var characters = '';
 var dragRow; //global for currently dragged row
 
 var dailies = {
-    "rapport-calvasus": {
+    "rapport-1": {
         task: "Rapport Blue-Eyed Calvasus",
         url: "https://papunika.com/affinity/",
         short: true,
         desc: "Can be found on Hypnos's Eyes."
     },
-    "rapport-beatrice": {
+    "rapport-2": {
         task: "Rapport Beatrice",
         url: "https://papunika.com/affinity/",
         short: true,
         desc: "Can be found in Trixion."
     },
-    "rapport-erzebet": {
+    "rapport-3": {
         task: "Rapport Erzebet",
         url: "https://papunika.com/affinity/",
         short: true,
         desc: "Can be found on Sublime Isle."
     },
-    "rapport-toto-elder": {
+    "rapport-4": {
         task: "Rapport Toto Elder",
         url: "https://papunika.com/affinity/",
         short: true,
         desc: "Can be found on Toto Silver Island."
     },
-    "rapport-zenri": {
+    "rapport-5": {
         task: "Rapport Future Millionare Zenri",
         url: "https://papunika.com/affinity/",
         short: true,
         desc: "Can be found on Liebeheim."
     },
-    
     "trade-skill": {
         task: "Trade Skill",
         url: "https://papunika.com/life-skill/",
@@ -96,31 +95,31 @@ var dailychar = {
         short: true,
         desc: "Uses 1 Guardian Soul per harvest.</br>Gain 2 Guardian Souls per day."
     },
-    "una-daily-kalhertz": {
+    "una-daily-1": {
         task: "Una Daily (Release Prisoners)",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
         desc: "Can be found on Kalhertz."
     },
-    "una-daily-ozorn-hill": {
+    "una-daily-2": {
         task: "Una Daily 2 (The Cursed Ruins)",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
         desc: "Can be found in Ozorn Hill, Yudia."
     },
-    "una-daily-freedom-isle": {
+    "una-daily-3": {
         task: "Una Daily 3 (An Archaeologists's Request)",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
         desc: "Can be found on Freedom Isle."
     },
-    "kalhertz-prisoners": {
+    "extra-daily-1": {
         task: "Release Kalhertz Prisoners",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
         desc: "Release 5 prisoners on Kalhertz."
     },
-    "sea-fermata-game": {
+    "extra-daily-2": {
         task: "Play the Luck Game on the Sea Fermata.",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
