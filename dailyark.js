@@ -96,22 +96,22 @@ var dailychar = {
         desc: "Uses 1 Guardian Soul per harvest.</br>Gain 2 Guardian Souls per day."
     },
     "una-daily-1": {
-        task: "Una Daily (Release Prisoners)",
+        task: "Una Daily 1",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
-        desc: "Can be found on Kalhertz."
+        desc: ""
     },
     "una-daily-2": {
-        task: "Una Daily 2 (The Cursed Ruins)",
+        task: "Una Daily 2",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
-        desc: "Can be found in Ozorn Hill, Yudia."
+        desc: ""
     },
     "una-daily-3": {
-        task: "Una Daily 3 (An Archaeologists's Request)",
+        task: "Una Daily 3",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
-        desc: "Can be found on Freedom Isle."
+        desc: ""
     },
     "extra-daily-1": {
         task: "Release Kalhertz Prisoners",
@@ -124,6 +124,12 @@ var dailychar = {
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
         desc: "Can be found on the Cradle of the Sea Fermata."
+    },
+    "extra-daily-2": {
+        task: "Do the daily quest on Anguished Isle.",
+        url: "https://papunika.com/unas-tasks-overview/",
+        short: true,
+        desc: "Can be found on Anguished Isle."
     },
     "guild-support": {
         task: "Guild Support",
