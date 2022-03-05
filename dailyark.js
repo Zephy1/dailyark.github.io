@@ -99,19 +99,19 @@ var dailychar = {
         task: "Una Daily 1",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
-        desc: ""
+        desc: "3 Una tasks per week.</br>Can be expanded up to +1."
     },
     "una-daily-2": {
         task: "Una Daily 2",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
-        desc: ""
+        desc: "3 Una tasks per week.</br>Can be expanded up to +1."
     },
     "una-daily-3": {
         task: "Una Daily 3",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
-        desc: ""
+        desc: "3 Una tasks per week.</br>Can be expanded up to +1."
     },
     "extra-daily-1": {
         task: "Release Kalhertz Prisoners",
@@ -125,7 +125,7 @@ var dailychar = {
         short: true,
         desc: "Can be found on the Cradle of the Sea Fermata."
     },
-    "extra-daily-2": {
+    "extra-daily-3": {
         task: "Do the daily quest on Anguished Isle.",
         url: "https://papunika.com/unas-tasks-overview/",
         short: true,
